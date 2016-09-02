@@ -40,5 +40,5 @@
   "language": "go",
   "license": "",
   "name": "client_golang",
-  "version": "0.0.0"
+  "version": "0.1.0"
 }
