@@ -18,7 +18,7 @@ import (
 	"flag"
 	"net/http"
 
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/gxed/client_golang/prometheus"
 )
 
 var addr = flag.String("listen-address", ":8080", "The address to listen on for HTTP requests.")

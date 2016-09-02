@@ -29,7 +29,7 @@ import (
 
 	"github.com/prometheus/common/expfmt"
 
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/gxed/client_golang/prometheus"
 )
 
 func TestPush(t *testing.T) {

@@ -28,8 +28,8 @@
 //    import (
 //    	"net/http"
 //
-//    	"github.com/prometheus/client_golang/prometheus"
-//    	"github.com/prometheus/client_golang/prometheus/promhttp"
+//    	"github.com/gxed/client_golang/prometheus"
+//    	"github.com/gxed/client_golang/prometheus/promhttp"
 //    )
 //
 //    var (
