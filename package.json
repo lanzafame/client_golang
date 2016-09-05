@@ -2,7 +2,7 @@
   "author": "whyrusleeping",
   "bugs": {},
   "gx": {
-    "dvcsimport": "github.com/prometheus/client_golang"
+    "dvcsimport": "github.com/gxed/client_golang"
   },
   "gxDependencies": [
     {
