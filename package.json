@@ -40,6 +40,6 @@
   "language": "go",
   "license": "",
   "name": "client_golang",
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
 
