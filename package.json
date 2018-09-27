@@ -2,7 +2,7 @@
   "author": "whyrusleeping",
   "bugs": {},
   "gx": {
-    "dvcsimport": "github.com/gxed/client_golang"
+    "dvcsimport": "github.com/prometheus/client_golang"
   },
   "gxDependencies": [
     {
@@ -11,9 +11,9 @@
       "version": "3.6.0"
     },
     {
-      "hash": "QmYaVovLzgcdBpCLEAnW41p8ujvCUxe3TFpfJxjK5qbzn7",
+      "hash": "QmP1GoK72n2mypXLXNrVjbbeyWgPhq9kGzFmAvV45dXJbt",
       "name": "client_model",
-      "version": "0.0.0"
+      "version": "0.0.1"
     },
     {
       "hash": "QmdCgRBcahWLSq3a2xdbcPb4ksrRREAhisYdfAaGfJ8hWb",
@@ -21,9 +21,9 @@
       "version": "0.0.0"
     },
     {
-      "hash": "QmTWEDbLX2d4NiMgPks6J2crRz47BamBtP16WiFuTL6Ydm",
+      "hash": "QmWUftSDLR21tuFaXoppZiHQSdeJN2mxtTA2DpkZGd9Cvn",
       "name": "common",
-      "version": "0.0.0"
+      "version": "0.0.1"
     },
     {
       "hash": "QmRvYNctevGUW52urgmoFZscT6buMKqhHezLUS64WepGWn",
@@ -40,6 +40,6 @@
   "language": "go",
   "license": "",
   "name": "client_golang",
-  "version": "0.1.3"
+  "version": "0.1.5"
 }
 
