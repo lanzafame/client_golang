@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/prometheus/client_golang/api"
+	"github.com/gxed/client_golang/api"
 	"github.com/prometheus/common/model"
 )
 

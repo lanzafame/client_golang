@@ -27,7 +27,7 @@ import (
 	"github.com/prometheus/common/expfmt"
 	"github.com/prometheus/common/model"
 
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/gxed/client_golang/prometheus"
 )
 
 // FromGatherer triggers a metric collection by the provided Gatherer (which is

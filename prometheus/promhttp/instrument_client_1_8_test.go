@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/prometheus/client_golang/prometheus"
+	"github.com/gxed/client_golang/prometheus"
 )
 
 func TestClientMiddlewareAPI(t *testing.T) {
